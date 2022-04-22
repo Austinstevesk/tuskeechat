@@ -1,0 +1,77 @@
+{
+  "COMPONENTS": {
+    "FILE_BUBBLE": {
+      "DOWNLOAD": "İndir",
+      "UPLOADING": "Yükleniyor ..."
+    },
+    "FORM_BUBBLE": {
+      "SUBMIT": "Yolla"
+    },
+    "MESSAGE_BUBBLE": {
+      "RETRY": "Send message again",
+      "ERROR_MESSAGE": "Couldn't send, try again"
+    }
+  },
+  "TEAM_AVAILABILITY": {
+    "ONLINE": "Çevrimiçi",
+    "OFFLINE": "Şuan operatörlerimiz müsait değil"
+  },
+  "REPLY_TIME": {
+    "IN_A_FEW_MINUTES": "Genellikle birkaç dakika içinde yanıt verir",
+    "IN_A_FEW_HOURS": "Genellikle birkaç saat içinde yanıt verir",
+    "IN_A_DAY": "Genellikle bir gün içinde yanıtlar"
+  },
+  "START_CONVERSATION": "Görüşmeyi Başlatın",
+  "CONTINUE_CONVERSATION": "Continue conversation",
+  "START_NEW_CONVERSATION": "Görüşmeyi Başlatın",
+  "UNREAD_VIEW": {
+    "VIEW_MESSAGES_BUTTON": "Yeni mesajları gör",
+    "CLOSE_MESSAGES_BUTTON": "Kapat",
+    "COMPANY_FROM": "dan",
+    "BOT": "Bot"
+  },
+  "BUBBLE": {
+    "LABEL": "Sohbet et"
+  },
+  "POWERED_BY": "Chatwoot tarafından desteklenmektedir",
+  "EMAIL_PLACEHOLDER": "Lütfen E-postanızı Girin",
+  "CHAT_PLACEHOLDER": "Mesajınız",
+  "TODAY": "Bugün",
+  "YESTERDAY": "Dün",
+  "PRE_CHAT_FORM": {
+    "FIELDS": {
+      "FULL_NAME": {
+        "LABEL": "Ad Soyad",
+        "PLACEHOLDER": "lütfen tam adınızı giriniz",
+        "ERROR": "Tam isim gerekli"
+      },
+      "EMAIL_ADDRESS": {
+        "LABEL": "E-posta adresi",
+        "PLACEHOLDER": "Lütfen E-postanızı girin",
+        "ERROR": "Geçersiz email adresi"
+      },
+      "MESSAGE": {
+        "LABEL": "Mesaj",
+        "PLACEHOLDER": "Lütfen E-postanızı girin",
+        "ERROR": "Mesaj çok kısa"
+      }
+    },
+    "CAMPAIGN_HEADER": "Please provide your name and email before starting the conversation"
+  },
+  "FILE_SIZE_LIMIT": "Dosya {MAXIMUM_FILE_UPLOAD_SIZE} sınırını aşıyor",
+  "CHAT_FORM": {
+    "INVALID": {
+      "FIELD": "Geçersiz alan"
+    }
+  },
+  "CSAT": {
+    "TITLE": "Konuşmanızı oylayın",
+    "SUBMITTED_TITLE": "Konuşmanızı oyladığınız için teşekkürler",
+    "PLACEHOLDER": "Biraz daha fazla bilgi verin..."
+  },
+  "EMAIL_TRANSCRIPT": {
+    "BUTTON_TEXT": "Konuşma transkripti talep et",
+    "SEND_EMAIL_SUCCESS": "Sohbet metni başarıyla gönderildi",
+    "SEND_EMAIL_ERROR": "Bir hata oluştu, lütfen tekrar deneyin"
+  }
+}

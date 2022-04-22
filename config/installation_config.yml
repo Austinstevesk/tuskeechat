@@ -1,0 +1,55 @@
+# if you dont specify locked attribute, the default value will be true
+# which means the particular config will be locked
+- name: INSTALLATION_NAME
+  value: 'Tuskeechat'
+- name: LOGO_THUMBNAIL
+  value: '/brand-assets/logo_thumbnail.svg'
+- name: LOGO
+  value: '/brand-assets/logo.svg'
+- name: BRAND_URL
+  value: 'https://ndovucloud.com'
+- name: WIDGET_BRAND_URL
+  value: 'https://www.ndovucloud.com'
+- name: BRAND_NAME
+  value: 'Tuskeechat'
+- name: TERMS_URL
+  value: 'https://www.ndovucloud.comterms-of-service'
+- name: PRIVACY_URL
+  value: 'https://www.ndovucloud.com/privacy'
+- name: DISPLAY_MANIFEST
+  value: true
+- name: MAILER_INBOUND_EMAIL_DOMAIN
+  value:
+  locked: false
+- name: MAILER_SUPPORT_EMAIL
+  value:
+  locked: false
+- name: CREATE_NEW_ACCOUNT_FROM_DASHBOARD
+  value: false
+  locked: false
+- name: INSTALLATION_EVENTS_WEBHOOK_URL
+  value:
+  locked: false
+- name: CHATWOOT_INBOX_TOKEN
+  value:
+  locked: false
+- name: CHATWOOT_INBOX_HMAC_KEY
+  value:
+  locked: false
+- name: API_CHANNEL_NAME
+  value:
+- name: API_CHANNEL_THUMBNAIL
+  value:
+- name: ANALYTICS_TOKEN
+  value:
+- name: ANALYTICS_HOST
+  value:
+- name: DIRECT_UPLOADS_ENABLED
+  value: false
+  locked: false
+- name: HCAPTCHA_SITE_KEY
+  value:
+  locked: false
+- name: HCAPTCHA_SERVER_KEY
+  value:
+  locked: false

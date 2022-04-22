@@ -1,0 +1,228 @@
+{
+  "PROFILE_SETTINGS": {
+    "LINK": "Profil ayarları",
+    "TITLE": "Profil ayarları",
+    "BTN_TEXT": "Profili Güncelle",
+    "DELETE_AVATAR": "Delete Avatar",
+    "AVATAR_DELETE_SUCCESS": "Avatar has been deleted successfully",
+    "AVATAR_DELETE_FAILED": "There is an error while deleting avatar, please try again",
+    "UPDATE_SUCCESS": "Profiliniz başarıyla güncellendi",
+    "PASSWORD_UPDATE_SUCCESS": "Şifreniz başarıyla değiştirildi",
+    "AFTER_EMAIL_CHANGED": "Profiliniz başarıyla güncellendi, lütfen giriş bilgileriniz değiştiği için tekrar giriş yapın",
+    "FORM": {
+      "AVATAR": "Profil Resmi",
+      "ERROR": "Lütfen form hatalarını düzeltin",
+      "REMOVE_IMAGE": "Kaldır",
+      "UPLOAD_IMAGE": "Resim yükleniyor",
+      "UPDATE_IMAGE": "Resmi güncelle",
+      "PROFILE_SECTION": {
+        "TITLE": "Profil",
+        "NOTE": "E-posta adresiniz kimliğinizdir ve oturum açmak için kullanılır."
+      },
+      "MESSAGE_SIGNATURE_SECTION": {
+        "TITLE": "Personal message signature",
+        "NOTE": "Create a personal message signature that would be added to all the messages you send from the platform. Use the rich content editor to create a highly personalised signature.",
+        "BTN_TEXT": "Save message signature",
+        "API_ERROR": "Couldn't save signature! Try again",
+        "API_SUCCESS": "Signature saved successfully"
+      },
+      "MESSAGE_SIGNATURE": {
+        "LABEL": "Message Signature",
+        "ERROR": "Message Signature cannot be empty",
+        "PLACEHOLDER": "Insert your personal message signature here."
+      },
+      "PASSWORD_SECTION": {
+        "TITLE": "Parola",
+        "NOTE": "Parolanızı güncellemek, giriş bilgilerinizi birden fazla cihazda sıfırlar.",
+        "BTN_TEXT": "Change password"
+      },
+      "ACCESS_TOKEN": {
+        "TITLE": "Erişim Jetonu",
+        "NOTE": "Bu simge, API tabanlı bir entegrasyon oluşturuyorsanız kullanılabilir"
+      },
+      "AUDIO_NOTIFICATIONS_SECTION": {
+        "TITLE": "Sesli Bildirimler",
+        "NOTE": "Enable audio notifications in dashboard for new messages and conversations.",
+        "NONE": "None",
+        "ASSIGNED": "Assigned Conversations",
+        "ALL_CONVERSATIONS": "All Conversations"
+      },
+      "EMAIL_NOTIFICATIONS_SECTION": {
+        "TITLE": "E-posta Bildirimleri",
+        "NOTE": "E-posta bildirim tercihlerinizi buradan güncelleyin",
+        "CONVERSATION_ASSIGNMENT": "Bana bir konuşma atandığında e-posta bildirimleri gönder",
+        "CONVERSATION_CREATION": "Yeni bir görüşme oluşturulduğunda e-posta bildirimleri gönderin",
+        "CONVERSATION_MENTION": "Send email notifications when you are mentioned in a conversation",
+        "ASSIGNED_CONVERSATION_NEW_MESSAGE": "Atanmış bir görüşmede yeni bir mesaj oluşturulduğunda e-posta bildirimleri gönderin"
+      },
+      "API": {
+        "UPDATE_SUCCESS": "Bildirim tercihleriniz başarıyla güncellendi",
+        "UPDATE_ERROR": "Tercihler güncellenirken bir hata oluştu, lütfen tekrar deneyin"
+      },
+      "PUSH_NOTIFICATIONS_SECTION": {
+        "TITLE": "Bildirimler",
+        "NOTE": "Bildirim tercihlerinizi buradan güncelleyin",
+        "CONVERSATION_ASSIGNMENT": "Bana bir konuşma atandığında anında bildirim gönder",
+        "CONVERSATION_CREATION": "Yeni bir görüşme oluşturulduğunda anlık bildirimler gönderin",
+        "CONVERSATION_MENTION": "Send push notifications when you are mentioned in a conversation",
+        "ASSIGNED_CONVERSATION_NEW_MESSAGE": "Atanan bir görüşmede yeni bir mesaj oluşturulduğunda anlık bildirimler gönderin",
+        "HAS_ENABLED_PUSH": "Bu tarayıcı için bildirim özelliğini etkinleştirdiniz.",
+        "REQUEST_PUSH": "Bildirimlerini etkinleştirin"
+      },
+      "PROFILE_IMAGE": {
+        "LABEL": "Profil Resmi"
+      },
+      "NAME": {
+        "LABEL": "Tam adınız",
+        "ERROR": "Lütfen geçerli bir tam ad girin",
+        "PLACEHOLDER": "lütfen tam adınızı giriniz"
+      },
+      "DISPLAY_NAME": {
+        "LABEL": "Ekran adı",
+        "ERROR": "Lütfen geçerli bir tam ad girin",
+        "PLACEHOLDER": "Lütfen bir görünen ad girin, bu görüşmelerde görüntülenecektir"
+      },
+      "AVAILABILITY": {
+        "LABEL": "Uygun",
+        "STATUSES_LIST": [
+          "Çevirimiçi",
+          "Meşgul",
+          "Çevirimdışı"
+        ]
+      },
+      "EMAIL": {
+        "LABEL": "Sizin E-posta Adresiniz",
+        "ERROR": "Lütfen geçerli bir tam e-posta adresi",
+        "PLACEHOLDER": "Lütfen e-posta adresinizi girin, bu görüşmelerde görüntülenecektir"
+      },
+      "CURRENT_PASSWORD": {
+        "LABEL": "Current password",
+        "ERROR": "Please enter the current password",
+        "PLACEHOLDER": "Please enter the current password"
+      },
+      "PASSWORD": {
+        "LABEL": "New password",
+        "ERROR": "Lütfen 6 veya daha uzun bir şifre girin",
+        "PLACEHOLDER": "Lütfen yeni bir şifre girin"
+      },
+      "PASSWORD_CONFIRMATION": {
+        "LABEL": "Yeni şifreyi onayla",
+        "ERROR": "Onay parolası, parolayla eşleşmelidir",
+        "PLACEHOLDER": "Please re-enter your new password"
+      }
+    }
+  },
+  "SIDEBAR_ITEMS": {
+    "CHANGE_AVAILABILITY_STATUS": "Değişiktir",
+    "CHANGE_ACCOUNTS": "Hesap değiştir",
+    "CONTACT_SUPPORT": "Contact Support",
+    "SELECTOR_SUBTITLE": "Aşağıdaki listeden bir hesap seçin",
+    "PROFILE_SETTINGS": "Profil ayarları",
+    "KEYBOARD_SHORTCUTS": "Keyboard Shortcuts",
+    "LOGOUT": "Çıkış Yap"
+  },
+  "APP_GLOBAL": {
+    "TRIAL_MESSAGE": "gün deneme kaldı.",
+    "TRAIL_BUTTON": "Şimdi satın al",
+    "DELETED_USER": "Deleted User"
+  },
+  "COMPONENTS": {
+    "CODE": {
+      "BUTTON_TEXT": "Kopyala",
+      "COPY_SUCCESSFUL": "Kod panoya başarıyla kopyalandı"
+    },
+    "FILE_BUBBLE": {
+      "DOWNLOAD": "İndir",
+      "UPLOADING": "Yükleniyor ..."
+    },
+    "FORM_BUBBLE": {
+      "SUBMIT": "Yolla"
+    }
+  },
+  "CONFIRM_EMAIL": "Doğrulanıyor...",
+  "SETTINGS": {
+    "INBOXES": {
+      "NEW_INBOX": "Gelen Kutusu Ekle"
+    }
+  },
+  "SIDEBAR": {
+    "CONVERSATIONS": "Konuşmalar",
+    "ALL_CONVERSATIONS": "All Conversations",
+    "MENTIONED_CONVERSATIONS": "Mentions",
+    "REPORTS": "Raporlar",
+    "SETTINGS": "Ayarlar",
+    "CONTACTS": "Kişiler",
+    "HOME": "Anasayfa",
+    "AGENTS": "Kullanıcılar",
+    "INBOXES": "Gelen kutuları",
+    "NOTIFICATIONS": "Bildirimler",
+    "CANNED_RESPONSES": "Hazır Yanıtlar",
+    "INTEGRATIONS": "Entegrasyonlar",
+    "PROFILE_SETTINGS": "Profil ayarları",
+    "ACCOUNT_SETTINGS": "Hesap ayarları",
+    "APPLICATIONS": "Applications",
+    "LABELS": "Etiketler",
+    "CUSTOM_ATTRIBUTES": "Özel Nitelikler",
+    "AUTOMATION": "Automation",
+    "TEAMS": "Teams",
+    "CUSTOM_VIEWS_FOLDER": "Folders",
+    "CUSTOM_VIEWS_SEGMENTS": "Segments",
+    "ALL_CONTACTS": "All Contacts",
+    "TAGGED_WITH": "Tagged with",
+    "NEW_LABEL": "New label",
+    "NEW_TEAM": "New team",
+    "NEW_INBOX": "New inbox",
+    "REPORTS_OVERVIEW": "Overview",
+    "CSAT": "CSAT",
+    "CAMPAIGNS": "Kampanyalar",
+    "ONGOING": "Ongoing",
+    "ONE_OFF": "One off",
+    "REPORTS_AGENT": "Kullanıcılar",
+    "REPORTS_LABEL": "Etiketler",
+    "REPORTS_INBOX": "Gelen kutusu",
+    "REPORTS_TEAM": "Team",
+    "SET_AVAILABILITY_TITLE": "Set yourself as"
+  },
+  "CREATE_ACCOUNT": {
+    "NO_ACCOUNT_WARNING": "Uh oh! We could not find any Chatwoot accounts. Please create a new account to continue.",
+    "NEW_ACCOUNT": "Yeni hesap",
+    "SELECTOR_SUBTITLE": "Yeni bir hesap oluştur",
+    "API": {
+      "SUCCESS_MESSAGE": "Hesap başarıyla oluşturuldu",
+      "EXIST_MESSAGE": "Bu Hesap Zaten Mevcut",
+      "ERROR_MESSAGE": "Woot Sunucusuna bağlanılamadı, Lütfen daha sonra tekrar deneyin"
+    },
+    "FORM": {
+      "NAME": {
+        "LABEL": "Hesap adı",
+        "PLACEHOLDER": "Şirketiniz"
+      },
+      "SUBMIT": "Yolla"
+    }
+  },
+  "KEYBOARD_SHORTCUTS": {
+    "TITLE": {
+      "OPEN_CONVERSATION": "Open conversation",
+      "RESOLVE_AND_NEXT": "Resolve and move to next",
+      "NAVIGATE_DROPDOWN": "Navigate dropdown items",
+      "RESOLVE_CONVERSATION": "Resolve Conversation",
+      "GO_TO_CONVERSATION_DASHBOARD": "Go to Conversation Dashboard",
+      "ADD_ATTACHMENT": "Add Attachment",
+      "GO_TO_CONTACTS_DASHBOARD": "Go to Contacts Dashboard",
+      "TOGGLE_SIDEBAR": "Toggle Sidebar",
+      "GO_TO_REPORTS_SIDEBAR": "Go to Reports sidebar",
+      "MOVE_TO_NEXT_TAB": "Move to next tab in conversation list",
+      "GO_TO_SETTINGS": "Go to Settings",
+      "SWITCH_CONVERSATION_STATUS": "Switch to the next conversation status",
+      "SWITCH_TO_PRIVATE_NOTE": "Switch to Private Note",
+      "TOGGLE_RICH_CONTENT_EDITOR": "Toggle Rich Content editor",
+      "SWITCH_TO_REPLY": "Switch to Reply",
+      "TOGGLE_SNOOZE_DROPDOWN": "Toggle snooze dropdown"
+    },
+    "KEYS": {
+      "WINDOWS_KEY_AND_COMMAND_KEY": "Win / ⌘",
+      "ALT_OR_OPTION_KEY": "Alt / ⌥",
+      "FORWARD_SLASH_KEY": "/"
+    }
+  }
+}

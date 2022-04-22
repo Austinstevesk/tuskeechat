@@ -1,0 +1,161 @@
+// Typography
+$base-font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+  "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif !default;
+$heading-font-family: $base-font-family !default;
+
+$base-font-size: 10px !default;
+
+$base-line-height: 1.5 !default;
+$heading-line-height: 1.2 !default;
+
+// Other Sizes
+$base-border-radius: 4px !default;
+$base-spacing: $base-line-height * 1em !default;
+$small-spacing: $base-spacing / 2 !default;
+
+$grey-1: #f0f4f5 !default;
+$black: #000 !default;
+$action-color: #343EAB !default;
+
+// Border
+$base-border-color: $grey-1 !default;
+$base-border: 1px solid $base-border-color !default;
+
+// Transitions
+$base-duration: 250ms !default;
+$base-timing: ease-in-out !default;
+
+// Focus
+$focus-outline-color: transparentize($action-color, 0.4);
+$focus-outline-width: 3px;
+$focus-outline: $focus-outline-width solid $focus-outline-color;
+$focus-outline-offset: 1px;
+
+
+$white: #fff !default;
+$black: #000 !default;
+
+$blue: #1f93ff !default;
+$red: #ff382d !default;
+$light-yellow: #ffc532 !default;
+$light-green: #44ce4b !default;
+
+$grey-0: #f6f7f7 !default;
+$grey-1: #f0f4f5 !default;
+$grey-2: #cfd8dc !default;
+$grey-5: #adb5bd !default;
+$grey-7: #293f54 !default;
+
+$hint-grey: #7b808c !default;
+
+// Font Colors
+$base-font-color: $grey-7 !default;
+$action-color: $blue !default;
+
+// Background Colors
+$base-background-color: $grey-0 !default;
+
+
+
+
+
+// Font sizes
+$font-size-nano: 0.8rem;
+$font-size-micro: 1.0rem;
+$font-size-mini: 1.2rem;
+$font-size-small: 1.4rem;
+$font-size-default: 1.6rem;
+$font-size-medium: 1.8rem;
+$font-size-large: 2.2rem;
+$font-size-big: 2.4rem;
+$font-size-bigger: 3.0rem;
+$font-size-mega: 3.4rem;
+$font-size-giga: 4.0rem;
+
+// spaces
+$zero: 0;
+$space-micro: 0.2rem;
+$space-smaller: 0.4rem;
+$space-small: 0.8rem;
+$space-one: 1rem;
+$space-slab: 1.2rem;
+$space-normal: 1.6rem;
+$space-two: 2.0rem;
+$space-medium: 2.4rem;
+$space-large: 3.2rem;
+$space-larger: 4.8rem;
+$space-jumbo: 6.4rem;
+$space-mega: 10.0rem;
+
+// font-weight
+$font-weight-feather: 100;
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 600;
+$font-weight-black: 700;
+
+//Navbar
+$nav-bar-width: 23rem;
+$header-height: 5.6rem;
+
+$woot-logo-padding: $space-large $space-two;
+
+// Colors
+$color-woot: #343EAB;
+$color-gray: #6e6f73;
+$color-light-gray: #747677;
+$color-border: #e0e6ed;
+$color-border-light: #f0f4f5;
+$color-background: #f4f6fb;
+$color-border-dark: #462F68;
+$color-background-light: #462F68;
+$color-white: #fff;
+$color-body: #3c4858;
+$color-heading: #1f2d3d;
+$color-extra-light-blue: #f5f7f9;
+
+$primary-color: $color-woot;
+$secondary-color: #5d7592;
+$success-color: #44ce4b;
+$warning-color: #ffc532;
+$alert-color: #ff382d;
+$white: #fff;
+
+$masked-bg: rgba(0, 0, 0, .4);
+
+// Color-palettes
+
+$color-primary-light: #462F68;
+$color-primary-dark: darken($color-woot, 20%);
+
+// Thumbnail
+$thumbnail-radius: 4rem;
+
+// chat-header
+$conv-header-height: 4rem;
+
+// Inbox List
+
+$inbox-thumb-size: 4.8rem;
+
+
+// Spinner
+$spinkit-spinner-color: $color-white !default;
+$spinkit-spinner-margin: 0 0 0 1.6rem !default;
+$spinkit-size: 1.6rem !default;
+
+// Snackbar default
+$woot-snackbar-bg: #323232;
+$woot-snackbar-button: #ffeb3b;
+
+$swift-ease-out-duration: .4s !default;
+$swift-ease-out-timing-function: cubic-bezier(.25, .8, .25, 1) !default;
+$swift-ease-out: all $swift-ease-out-duration $swift-ease-out-timing-function !default;
+
+// Ionicons
+$ionicons-font-path: '~ionicons/fonts';
+
+// Transitions
+$transition-ease-in: all 0.250s ease-in;
